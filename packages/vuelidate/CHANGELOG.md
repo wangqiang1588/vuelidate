@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-alpha.21](https://github.com/vuelidate/vuelidate/compare/@vuelidate/core@2.0.0-alpha.20...@vuelidate/core@2.0.0-alpha.21) (2021-07-02)
+
+
+### Bug Fixes
+
+* **core:** fixed type issues regarding ([#886](https://github.com/vuelidate/vuelidate/issues/886)) ([a292833](https://github.com/vuelidate/vuelidate/commit/a29283359f8119eb6fd6649274c0d7322cc81865))
+
+
+
+
+
+# [2.0.0-alpha.20](https://github.com/vuelidate/vuelidate/compare/@vuelidate/core@2.0.0-alpha.19...@vuelidate/core@2.0.0-alpha.20) (2021-07-01)
+
+
+### Features
+
+* **core:** add external validations support via $externalResults ([#837](https://github.com/vuelidate/vuelidate/issues/837)), closes [#824](https://github.com/vuelidate/vuelidate/issues/824) ([b259587](https://github.com/vuelidate/vuelidate/commit/b25958725ea310018d571fdd718847db98277684))
+
+
+
+
+
 # [2.0.0-alpha.19](https://github.com/vuelidate/vuelidate/compare/@vuelidate/core@2.0.0-alpha.18...@vuelidate/core@2.0.0-alpha.19) (2021-06-04)
 
 
